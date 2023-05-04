@@ -9,7 +9,7 @@ The program requires Python 3 to be installed on your system. To download Python
 
 ## Usage
 
-To run the program, use the following command in the terminal:
+To run the program, use the following command in the terminal:<br>
 `
 python3 main.py
 `
