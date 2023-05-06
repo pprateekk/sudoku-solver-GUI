@@ -19,11 +19,11 @@ python3 sudokugui.py
 
 Before solving: 
 
-![gui1][images/gui1.png]
+![gui1](images/gui1.png)
 
 After solving:
 
-![gui2][images/gui2.png]
+![gui2](images/gui2.png)
 
 To run the text-based program, use the following command in the terminal:<br>
 
@@ -31,7 +31,7 @@ To run the text-based program, use the following command in the terminal:<br>
 python3 main.py
 `
 
-![gui1][images/text.png]
+![gui1](images/text.png)
 
 The program will load a Sudoku puzzle from a hardcoded board in the code. It will print the original puzzle, solve it, and then print the solved puzzle.
 
