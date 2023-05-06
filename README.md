@@ -5,11 +5,11 @@ This is a Python program that can solve a Sudoku puzzle. The program is implemen
 
 ## Installation
 
-The program requires Python 3 to be installed on your system. To download Python click here
+The program requires Python 3 to be installed on your system. To download Python [click here](https://www.python.org/downloads/)
 
 ## Usage
 
-To run the program, use the following command in the terminal:
+To run the program, use the following command in the terminal:<br><br>
 `
 python3 main.py
 `
